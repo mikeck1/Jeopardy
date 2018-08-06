@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>categories</key>
+	<array>
+		<dict>
+			<key>category</key>
+			<string>Category0</string>
+			<key>questionsInCategory</key>
+			<array>
+				<dict>
+					<key>maxTime</key>
+					<integer>60</integer>
+					<key>pointValue</key>
+					<integer>100</integer>
+					<key>text</key>
+					<string>Question0 in Category0</string>
+				</dict>
+				<dict>
+					<key>maxTime</key>
+					<integer>120</integer>
+					<key>pointValue</key>
+					<integer>200</integer>
+					<key>text</key>
+					<string>Question1 in Category0</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>category</key>
+			<string>Category1</string>
+			<key>questionsInCategory</key>
+			<array>
+				<dict>
+					<key>maxTime</key>
+					<integer>60</integer>
+					<key>pointValue</key>
+					<integer>100</integer>
+					<key>text</key>
+					<string>Question0 in Category1</string>
+				</dict>
+				<dict>
+					<key>maxTime</key>
+					<integer>120</integer>
+					<key>pointValue</key>
+					<integer>200</integer>
+					<key>text</key>
+					<string>Question1 in Category1</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
